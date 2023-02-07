@@ -1,0 +1,4 @@
+﻿  contact.c
+D:\C生万物\通讯录1.0版\通讯录1.0版\contact.c(147,2): warning C4013: “qsort”未定义；假设外部返回 int
+D:\C生万物\通讯录1.0版\通讯录1.0版\contact.c(149,10): warning C4098: “SORTContact”:“void”函数返回值
+  通讯录1.0版.vcxproj -> D:\C生万物\通讯录1.0版\x64\Debug\通讯录1.0版.exe
